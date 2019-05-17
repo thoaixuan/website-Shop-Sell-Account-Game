@@ -1,0 +1,93 @@
+#message-purchased {
+    width: 320px !important;
+    border-radius: 5px !important;
+    padding: 0 5px 0 0;
+    background-position: bottom right;
+    height: 96px;
+}
+
+#message-purchased #notify-close {
+    right: -6px;
+    top: -5px;
+}
+
+#message-purchased a {
+    display: flex;
+    vertical-align: middle;
+    padding: 5px;
+    width: 95px;
+    box-sizing: border-box;
+}
+/*Background image*/
+
+#message-purchased.wn-extended {
+    width: 400px;
+}
+
+#message-purchased.wn-extended.wn-boxing::before {
+    background-color: #c41c2f;
+}
+
+#message-purchased.wn-extended::before {
+    right: 0;
+    position: absolute;
+    top: 0;
+    content: " ";
+    bottom: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+#message-purchased.wn-extended > * {
+    z-index: 1;
+}
+
+#message-purchased.wn-extended img {
+    padding: 7px 0 7px 5px;
+}
+
+#message-purchased.wn-extended p {
+    width: 270px;
+}
+
+#message-purchased.wn-extended p a {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-right: 0;
+    white-space: nowrap;
+}
+
+#message-purchased.wn-extended img {
+    padding: 5px;
+}
+
+#message-purchased.wn-extended a img {
+    padding: 0;
+    margin: 0;
+    border-radius: 3px;
+}
+
+#message-purchased.wn-extended p {
+    width: 223px;
+    margin: 0;
+    padding: 5px 0;
+    font: 300 12px/1.5 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    position: relative;
+}
+
+#message-purchased.wn-extended p small, #message-purchased.wn-extended p span {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100%;
+}
+
+#message-purchased.wn-extended p small {
+    font-size: 85%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 7px;
+    left: 0;
+}

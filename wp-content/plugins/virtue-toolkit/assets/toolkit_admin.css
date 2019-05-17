@@ -1,0 +1,41 @@
+.cmb2-wrap textarea {
+    line-height: 20px;
+    height: 30px;
+  }
+.cmb-type-textarea_code pre {
+	margin: 0;
+}
+.wp-admin .cmb-type-textarea_code pre {
+white-space: normal;
+}
+.cmb-type-kad-gallery .kad-gallery .gallery_images a {
+  display: inline-block;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+.cmb-type-kad-gallery .kad-gallery .gallery_images a img {
+  max-width: 150px;
+}
+.cmb-type-kad-gallery .kad-gallery #edit-gallery {
+  margin-right: 10px;
+}
+.wp-admin .postbox-container .cmb2-wrap > .cmb-field-list > .cmb-row {
+    padding: 5px 0;
+}
+.cmb2-metabox .cmb2-media-status .img-status img {
+    max-width: 150px;
+    height: auto;
+}
+.wp-admin #side-sortables .cmb2-wrap>.cmb-field-list>.cmb-row {
+    padding: 5px 0 10px;
+}
+
+.wp-admin #side-sortables .cmb-th {
+    padding-bottom: 0;
+}
+
+.wp-admin #side-sortables .cmb-th label {
+    color: #222;
+    font-weight: 600;
+    font-size: 12px;
+}

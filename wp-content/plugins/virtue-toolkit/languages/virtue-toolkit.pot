@@ -1,0 +1,1846 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Virtue Toolkit\n"
+"POT-Creation-Date: 2017-12-21 14:02-0700\n"
+"PO-Revision-Date: 2015-01-10 00:32-0700\n"
+"Last-Translator: \n"
+"Language-Team: Kadence Themes\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../author_box.php:7
+msgid "Extra profile information for author box"
+msgstr ""
+
+#: ../author_box.php:13
+msgid "Occupation"
+msgstr ""
+
+#: ../author_box.php:18
+msgid "Please enter your Occupation."
+msgstr ""
+
+#: ../author_box.php:27
+msgid "Please enter your Twitter username."
+msgstr ""
+
+#: ../author_box.php:35
+msgid "Please enter your Facebook url. (be sure to include http://)"
+msgstr ""
+
+#: ../author_box.php:44
+msgid "Please enter your Google Plus url. (be sure to include http://)"
+msgstr ""
+
+#: ../author_box.php:53
+msgid "Please enter your YouTube url. (be sure to include http://)"
+msgstr ""
+
+#: ../author_box.php:62
+msgid "Please enter your Flickr url. (be sure to include http://)"
+msgstr ""
+
+#: ../author_box.php:71
+msgid "Please enter your Vimeo url. (be sure to include http://)"
+msgstr ""
+
+#: ../author_box.php:80
+msgid "Please enter your Linkedin url. (be sure to include http://)"
+msgstr ""
+
+#: ../author_box.php:89
+msgid "Please enter your Dribbble url. (be sure to include http://)"
+msgstr ""
+
+#: ../author_box.php:98
+msgid "Please enter your Pinterest url. (be sure to include http://)"
+msgstr ""
+
+#: ../author_box.php:107
+msgid "Please enter your Instagram url. (be sure to include http://)"
+msgstr ""
+
+#: ../cmb/includes/CMB2.php:578
+msgid "Click to toggle"
+msgstr ""
+
+#: ../cmb/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%1$s\" "
+"parameter."
+msgstr ""
+
+#: ../cmb/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%1$s\" parameter."
+msgstr ""
+
+#: ../cmb/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: ../cmb/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: ../cmb/includes/CMB2_Options_Hookup.php:126
+msgid "Nothing to update."
+msgstr ""
+
+#: ../cmb/includes/CMB2_Options_Hookup.php:130
+msgid "Settings updated."
+msgstr ""
+
+#: ../cmb/includes/CMB2_Types.php:231
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: ../cmb/includes/CMB2_hookup.php:458
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the "
+"\"show_in_rest\" parameter configured."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: ../cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#. translators: %s: register_routes()
+#: ../cmb/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: ../cmb/includes/shim/WP_REST_Controller.php:35
+#: ../cmb/includes/shim/WP_REST_Controller.php:47
+#: ../cmb/includes/shim/WP_REST_Controller.php:59
+#: ../cmb/includes/shim/WP_REST_Controller.php:71
+#: ../cmb/includes/shim/WP_REST_Controller.php:83
+#: ../cmb/includes/shim/WP_REST_Controller.php:95
+#: ../cmb/includes/shim/WP_REST_Controller.php:107
+#: ../cmb/includes/shim/WP_REST_Controller.php:119
+#: ../cmb/includes/shim/WP_REST_Controller.php:131
+#: ../cmb/includes/shim/WP_REST_Controller.php:143
+#: ../cmb/includes/shim/WP_REST_Controller.php:155
+#: ../cmb/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: ../cmb/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: ../cmb/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: ../cmb/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: ../cmb/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in "
+"response."
+msgstr ""
+
+#: ../metaboxes.php:22
+msgid "All Types"
+msgstr ""
+
+#: ../metaboxes.php:52
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../metaboxes.php:53
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../metaboxes.php:69 ../metaboxes.php:693
+msgid "Page Title and Subtitle"
+msgstr ""
+
+#: ../metaboxes.php:74 ../metaboxes.php:116 ../metaboxes.php:698
+msgid "Subtitle"
+msgstr ""
+
+#: ../metaboxes.php:75 ../metaboxes.php:699
+msgid "Subtitle will go below page title"
+msgstr ""
+
+#: ../metaboxes.php:80
+msgid "Hide Page Title"
+msgstr ""
+
+#: ../metaboxes.php:85 ../metaboxes.php:96 ../metaboxes.php:127
+#: ../metaboxes.php:138 ../metaboxes.php:388 ../metaboxes.php:399
+#: ../metaboxes.php:431 ../metaboxes.php:442 ../metaboxes.php:508
+#: ../metaboxes.php:1285 ../metaboxes.php:1365
+msgid "Default"
+msgstr ""
+
+#: ../metaboxes.php:86 ../metaboxes.php:128
+msgid "Show"
+msgstr ""
+
+#: ../metaboxes.php:87 ../metaboxes.php:129
+msgid "Hide"
+msgstr ""
+
+#: ../metaboxes.php:91
+msgid "Page Title background behind Header"
+msgstr ""
+
+#: ../metaboxes.php:97 ../metaboxes.php:139
+msgid "Place behind Header"
+msgstr ""
+
+#: ../metaboxes.php:98 ../metaboxes.php:140
+msgid "Don't place behind Header"
+msgstr ""
+
+#: ../metaboxes.php:105
+msgid "Post Title and Subtitle"
+msgstr ""
+
+#: ../metaboxes.php:110
+msgid "Post Header Title"
+msgstr ""
+
+#: ../metaboxes.php:117
+msgid "Subtitle will go below post title"
+msgstr ""
+
+#: ../metaboxes.php:122
+msgid "Hide Post Title"
+msgstr ""
+
+#: ../metaboxes.php:133
+msgid "Post Title background behind Header"
+msgstr ""
+
+#: ../metaboxes.php:147 ../metaboxes.php:1144
+msgid "Gallery Post Options"
+msgstr ""
+
+#: ../metaboxes.php:152 ../metaboxes.php:203 ../metaboxes.php:1150
+#: ../metaboxes.php:1212
+msgid "Post Head Content"
+msgstr ""
+
+#: ../metaboxes.php:157 ../metaboxes.php:187 ../metaboxes.php:1155
+#: ../metaboxes.php:1196
+msgid "Gallery Post Default"
+msgstr ""
+
+#: ../metaboxes.php:158 ../metaboxes.php:1156
+msgid "Image Slider - (Cropped Image Ratio)"
+msgstr ""
+
+#: ../metaboxes.php:159 ../metaboxes.php:1157 ../metaboxes.php:1299
+msgid "Image Slider - (Different Image Ratio)"
+msgstr ""
+
+#: ../metaboxes.php:160 ../metaboxes.php:210 ../metaboxes.php:268
+#: ../metaboxes.php:747 ../metaboxes.php:1162 ../metaboxes.php:1219
+#: ../metaboxes.php:1305
+msgid "None"
+msgstr ""
+
+#: ../metaboxes.php:164 ../metaboxes.php:1166
+msgid "Post Slider Gallery"
+msgstr ""
+
+#: ../metaboxes.php:165 ../metaboxes.php:991 ../metaboxes.php:1131
+msgid "Add images for gallery here"
+msgstr ""
+
+#: ../metaboxes.php:170
+msgid "Max Slider Height"
+msgstr ""
+
+#: ../metaboxes.php:171 ../metaboxes.php:563
+msgid "Default is: 400 (Note: just input number, example: 350)"
+msgstr ""
+
+#: ../metaboxes.php:176
+msgid "Max Slider Width"
+msgstr ""
+
+#: ../metaboxes.php:177
+msgid ""
+"Default is: 848 or 1140 on fullwidth posts (Note: just input number, "
+"example: 650, only applys to Image Slider)"
+msgstr ""
+
+#: ../metaboxes.php:182 ../metaboxes.php:226 ../metaboxes.php:1191
+#: ../metaboxes.php:1248
+msgid "Post Summary"
+msgstr ""
+
+#: ../metaboxes.php:188 ../metaboxes.php:233
+msgid "Portrait Image (Featured image)"
+msgstr ""
+
+#: ../metaboxes.php:189 ../metaboxes.php:234
+msgid "Landscape Image (Featured image)"
+msgstr ""
+
+#: ../metaboxes.php:190 ../metaboxes.php:1199
+msgid "Portrait Image Slider"
+msgstr ""
+
+#: ../metaboxes.php:191 ../metaboxes.php:1200
+msgid "Landscape Image Slider"
+msgstr ""
+
+#: ../metaboxes.php:198 ../metaboxes.php:1207
+msgid "Video Post Options"
+msgstr ""
+
+#: ../metaboxes.php:208 ../metaboxes.php:231 ../metaboxes.php:1217
+#: ../metaboxes.php:1253
+msgid "Video Post Default"
+msgstr ""
+
+#: ../metaboxes.php:209 ../metaboxes.php:266 ../metaboxes.php:746
+#: ../metaboxes.php:985 ../metaboxes.php:1218 ../metaboxes.php:1304
+msgid "Video"
+msgstr ""
+
+#: ../metaboxes.php:214
+msgid "Video Post embed code"
+msgstr ""
+
+#: ../metaboxes.php:215
+msgid ""
+"Place Embed Code Here, works with youtube, vimeo. (Use the featured image "
+"for screen shot)"
+msgstr ""
+
+#: ../metaboxes.php:220 ../metaboxes.php:1242
+msgid "Max Video Width"
+msgstr ""
+
+#: ../metaboxes.php:221
+msgid ""
+"Default is: 848 or 1140 on fullwidth posts (Note: just input number, "
+"example: 650 )"
+msgstr ""
+
+#: ../metaboxes.php:232 ../metaboxes.php:1254
+msgid "Video - (when possible)"
+msgstr ""
+
+#: ../metaboxes.php:241 ../metaboxes.php:721
+msgid "Portfolio Post Options"
+msgstr ""
+
+#: ../metaboxes.php:246 ../metaboxes.php:726 ../metaboxes.php:1280
+msgid "Project Layout"
+msgstr ""
+
+#: ../metaboxes.php:251 ../metaboxes.php:1286
+msgid "Beside 40%"
+msgstr ""
+
+#: ../metaboxes.php:252 ../metaboxes.php:1287
+msgid "Beside 33%"
+msgstr ""
+
+#: ../metaboxes.php:253 ../metaboxes.php:732 ../metaboxes.php:1288
+msgid "Above"
+msgstr ""
+
+#: ../metaboxes.php:254 ../metaboxes.php:733
+msgid "Three Rows"
+msgstr ""
+
+#: ../metaboxes.php:258 ../metaboxes.php:737 ../metaboxes.php:1292
+msgid "Project Options"
+msgstr ""
+
+#: ../metaboxes.php:263 ../metaboxes.php:742 ../metaboxes.php:986
+#: ../metaboxes.php:1297
+msgid "Image"
+msgstr ""
+
+#: ../metaboxes.php:264 ../metaboxes.php:550 ../metaboxes.php:1298
+msgid "Image Slider (Cropped Image Ratio)"
+msgstr ""
+
+#: ../metaboxes.php:265 ../metaboxes.php:551
+msgid "Image Slider (Different Image Ratio)"
+msgstr ""
+
+#: ../metaboxes.php:267 ../metaboxes.php:745 ../metaboxes.php:1303
+msgid "Image Grid"
+msgstr ""
+
+#: ../metaboxes.php:272 ../metaboxes.php:751
+msgid "Columns (Only for Image Grid option)"
+msgstr ""
+
+#: ../metaboxes.php:277 ../metaboxes.php:454 ../metaboxes.php:756
+#: ../metaboxes.php:882
+msgid "Four Column"
+msgstr ""
+
+#: ../metaboxes.php:278 ../metaboxes.php:455 ../metaboxes.php:757
+#: ../metaboxes.php:883
+msgid "Three Column"
+msgstr ""
+
+#: ../metaboxes.php:279 ../metaboxes.php:456 ../metaboxes.php:758
+#: ../metaboxes.php:884
+msgid "Two Column"
+msgstr ""
+
+#: ../metaboxes.php:280 ../metaboxes.php:457 ../metaboxes.php:759
+msgid "Five Column"
+msgstr ""
+
+#: ../metaboxes.php:281 ../metaboxes.php:760
+msgid "Six Column"
+msgstr ""
+
+#: ../metaboxes.php:285
+msgid "Portfolio Slider/Images"
+msgstr ""
+
+#: ../metaboxes.php:286 ../metaboxes.php:557
+msgid "Add images for post here"
+msgstr ""
+
+#: ../metaboxes.php:291 ../metaboxes.php:562 ../metaboxes.php:764
+#: ../metaboxes.php:996
+msgid "Max Image/Slider Height"
+msgstr ""
+
+#: ../metaboxes.php:292
+msgid "Default is: 450 (Note: just input number, example: 350)"
+msgstr ""
+
+#: ../metaboxes.php:297 ../metaboxes.php:568 ../metaboxes.php:770
+#: ../metaboxes.php:1002
+msgid "Max Image/Slider Width"
+msgstr ""
+
+#: ../metaboxes.php:298
+msgid ""
+"Default is: 670 or 1140 on above or three row layouts (Note: just input "
+"number, example: 650)"
+msgstr ""
+
+#: ../metaboxes.php:303 ../metaboxes.php:786
+msgid "Value 01 Title"
+msgstr ""
+
+#: ../metaboxes.php:304 ../metaboxes.php:787
+msgid "ex. Project Type:"
+msgstr ""
+
+#: ../metaboxes.php:309 ../metaboxes.php:792
+msgid "Value 01 Description"
+msgstr ""
+
+#: ../metaboxes.php:310 ../metaboxes.php:793
+msgid "ex. Character Illustration"
+msgstr ""
+
+#: ../metaboxes.php:315 ../metaboxes.php:798
+msgid "Value 02 Title"
+msgstr ""
+
+#: ../metaboxes.php:316 ../metaboxes.php:799
+msgid "ex. Skills Needed:"
+msgstr ""
+
+#: ../metaboxes.php:321 ../metaboxes.php:804
+msgid "Value 02 Description"
+msgstr ""
+
+#: ../metaboxes.php:322 ../metaboxes.php:805
+msgid "ex. Photoshop, Illustrator"
+msgstr ""
+
+#: ../metaboxes.php:327 ../metaboxes.php:810
+msgid "Value 03 Title"
+msgstr ""
+
+#: ../metaboxes.php:328 ../metaboxes.php:811
+msgid "ex. Customer:"
+msgstr ""
+
+#: ../metaboxes.php:333 ../metaboxes.php:816
+msgid "Value 03 Description"
+msgstr ""
+
+#: ../metaboxes.php:334 ../metaboxes.php:817
+msgid "ex. Example Inc"
+msgstr ""
+
+#: ../metaboxes.php:339 ../metaboxes.php:822
+msgid "Value 04 Title"
+msgstr ""
+
+#: ../metaboxes.php:340 ../metaboxes.php:823
+msgid "ex. Project Year:"
+msgstr ""
+
+#: ../metaboxes.php:345 ../metaboxes.php:828
+msgid "Value 04 Description"
+msgstr ""
+
+#: ../metaboxes.php:346 ../metaboxes.php:829
+msgid "ex. 2013"
+msgstr ""
+
+#: ../metaboxes.php:351 ../metaboxes.php:834
+msgid "External Website"
+msgstr ""
+
+#: ../metaboxes.php:352 ../metaboxes.php:835
+msgid "ex. Website:"
+msgstr ""
+
+#: ../metaboxes.php:357 ../metaboxes.php:840
+msgid "Website Address"
+msgstr ""
+
+#: ../metaboxes.php:358 ../metaboxes.php:841
+msgid "ex. http://www.example.com"
+msgstr ""
+
+#: ../metaboxes.php:363 ../metaboxes.php:846
+msgid "If Video Project"
+msgstr ""
+
+#: ../metaboxes.php:364 ../metaboxes.php:713 ../metaboxes.php:847
+#: ../metaboxes.php:1019
+msgid "Place Embed Code Here, works with youtube, vimeo..."
+msgstr ""
+
+#: ../metaboxes.php:372
+msgid "Bottom Carousel Options"
+msgstr ""
+
+#: ../metaboxes.php:377 ../metaboxes.php:862 ../metaboxes.php:1354
+msgid "Carousel Title"
+msgstr ""
+
+#: ../metaboxes.php:378 ../metaboxes.php:863 ../metaboxes.php:1355
+msgid "ex. Similar Projects"
+msgstr ""
+
+#: ../metaboxes.php:383 ../metaboxes.php:1360
+msgid "Bottom Portfolio Carousel"
+msgstr ""
+
+#: ../metaboxes.php:384 ../metaboxes.php:1361
+msgid "Display a carousel with portfolio items below project?"
+msgstr ""
+
+#: ../metaboxes.php:389 ../metaboxes.php:595 ../metaboxes.php:617
+#: ../metaboxes.php:626 ../metaboxes.php:782 ../metaboxes.php:857
+#: ../metaboxes.php:965 ../metaboxes.php:1014 ../metaboxes.php:1039
+#: ../metaboxes.php:1055 ../metaboxes.php:1064
+msgid "No"
+msgstr ""
+
+#: ../metaboxes.php:390 ../metaboxes.php:594 ../metaboxes.php:616
+#: ../metaboxes.php:627 ../metaboxes.php:781 ../metaboxes.php:966
+#: ../metaboxes.php:1013 ../metaboxes.php:1038 ../metaboxes.php:1054
+#: ../metaboxes.php:1065
+msgid "Yes"
+msgstr ""
+
+#: ../metaboxes.php:394
+msgid "Carousel Items"
+msgstr ""
+
+#: ../metaboxes.php:400
+msgid "All Portfolio Posts"
+msgstr ""
+
+#: ../metaboxes.php:401
+msgid "Only of same Portfolio Type"
+msgstr ""
+
+#: ../metaboxes.php:405
+msgid "Carousel Order"
+msgstr ""
+
+#: ../metaboxes.php:410 ../metaboxes.php:473 ../metaboxes.php:900
+#: ../metaboxes.php:912
+msgid "Menu Order"
+msgstr ""
+
+#: ../metaboxes.php:411 ../metaboxes.php:474 ../metaboxes.php:901
+#: ../metaboxes.php:913
+msgid "Title"
+msgstr ""
+
+#: ../metaboxes.php:412 ../metaboxes.php:475 ../metaboxes.php:902
+#: ../metaboxes.php:914
+msgid "Date"
+msgstr ""
+
+#: ../metaboxes.php:413 ../metaboxes.php:476 ../metaboxes.php:903
+#: ../metaboxes.php:915
+msgid "Random"
+msgstr ""
+
+#: ../metaboxes.php:420 ../metaboxes.php:871
+msgid "Portfolio Page Options"
+msgstr ""
+
+#: ../metaboxes.php:426 ../shortcodes/pullquote/quote_popup.php:59
+msgid "Style"
+msgstr ""
+
+#: ../metaboxes.php:432
+msgid "Post Boxes"
+msgstr ""
+
+#: ../metaboxes.php:433 ../metaboxes.php:552
+msgid "Flat with Margin"
+msgstr ""
+
+#: ../metaboxes.php:437
+msgid "Hover Style"
+msgstr ""
+
+#: ../metaboxes.php:443
+msgid "Light"
+msgstr ""
+
+#: ../metaboxes.php:444
+msgid "Dark"
+msgstr ""
+
+#: ../metaboxes.php:445 ../shortcodes/btns/btns_popup.php:134
+msgid "Primary Color"
+msgstr ""
+
+#: ../metaboxes.php:449 ../metaboxes.php:877 ../metaboxes.php:1309
+msgid "Columns"
+msgstr ""
+
+#: ../metaboxes.php:461 ../metaboxes.php:888
+msgid "Portfolio Work Types"
+msgstr ""
+
+#: ../metaboxes.php:468 ../metaboxes.php:895 ../metaboxes.php:907
+msgid "Order Items By"
+msgstr ""
+
+#: ../metaboxes.php:480 ../metaboxes.php:919
+msgid "Items per Page"
+msgstr ""
+
+#: ../metaboxes.php:481 ../metaboxes.php:920
+msgid "How many portfolio items per page"
+msgstr ""
+
+#: ../metaboxes.php:485 ../metaboxes.php:924
+msgid "All"
+msgstr ""
+
+#: ../metaboxes.php:486 ../metaboxes.php:656 ../metaboxes.php:925
+#: ../metaboxes.php:1094
+msgid "3"
+msgstr ""
+
+#: ../metaboxes.php:487 ../metaboxes.php:657 ../metaboxes.php:926
+#: ../metaboxes.php:1095
+msgid "4"
+msgstr ""
+
+#: ../metaboxes.php:488 ../metaboxes.php:658 ../metaboxes.php:927
+#: ../metaboxes.php:1096
+msgid "5"
+msgstr ""
+
+#: ../metaboxes.php:489 ../metaboxes.php:659 ../metaboxes.php:928
+#: ../metaboxes.php:1097
+msgid "6"
+msgstr ""
+
+#: ../metaboxes.php:490 ../metaboxes.php:660 ../metaboxes.php:929
+#: ../metaboxes.php:1098
+msgid "7"
+msgstr ""
+
+#: ../metaboxes.php:491 ../metaboxes.php:661 ../metaboxes.php:930
+#: ../metaboxes.php:1099
+msgid "8"
+msgstr ""
+
+#: ../metaboxes.php:492 ../metaboxes.php:662 ../metaboxes.php:931
+#: ../metaboxes.php:1100
+msgid "9"
+msgstr ""
+
+#: ../metaboxes.php:493 ../metaboxes.php:663 ../metaboxes.php:932
+#: ../metaboxes.php:1101
+msgid "10"
+msgstr ""
+
+#: ../metaboxes.php:494 ../metaboxes.php:664 ../metaboxes.php:933
+#: ../metaboxes.php:1102
+msgid "11"
+msgstr ""
+
+#: ../metaboxes.php:495 ../metaboxes.php:665 ../metaboxes.php:934
+#: ../metaboxes.php:1103
+msgid "12"
+msgstr ""
+
+#: ../metaboxes.php:496 ../metaboxes.php:666 ../metaboxes.php:935
+#: ../metaboxes.php:1104
+msgid "13"
+msgstr ""
+
+#: ../metaboxes.php:497 ../metaboxes.php:667 ../metaboxes.php:936
+#: ../metaboxes.php:1105
+msgid "14"
+msgstr ""
+
+#: ../metaboxes.php:498 ../metaboxes.php:668 ../metaboxes.php:937
+#: ../metaboxes.php:1106
+msgid "15"
+msgstr ""
+
+#: ../metaboxes.php:499 ../metaboxes.php:669 ../metaboxes.php:938
+#: ../metaboxes.php:1107
+msgid "16"
+msgstr ""
+
+#: ../metaboxes.php:503
+msgid "Image Ratio?"
+msgstr ""
+
+#: ../metaboxes.php:509
+msgid "Square 1:1"
+msgstr ""
+
+#: ../metaboxes.php:510
+msgid "Portrait 3:4"
+msgstr ""
+
+#: ../metaboxes.php:511
+msgid "Landscape 4:3"
+msgstr ""
+
+#: ../metaboxes.php:512
+msgid "Wide Landscape 4:2"
+msgstr ""
+
+#: ../metaboxes.php:516 ../metaboxes.php:948
+msgid "Display Item Work Types"
+msgstr ""
+
+#: ../metaboxes.php:522 ../metaboxes.php:954
+msgid "Display Item Excerpt"
+msgstr ""
+
+#: ../metaboxes.php:528
+msgid "Add Lightbox link in each item"
+msgstr ""
+
+#: ../metaboxes.php:537 ../metaboxes.php:973
+msgid "Feature Page Options"
+msgstr ""
+
+#: ../metaboxes.php:543
+msgid "Header Options"
+msgstr ""
+
+#: ../metaboxes.php:544
+msgid "If image slider make sure images uploaded are at-least 1170px wide."
+msgstr ""
+
+#: ../metaboxes.php:549
+msgid "Page Title"
+msgstr ""
+
+#: ../metaboxes.php:556 ../metaboxes.php:1125
+msgid "Slider Images"
+msgstr ""
+
+#: ../metaboxes.php:569
+msgid "Default is: 1140 (Note: just input number, example: 650)"
+msgstr ""
+
+#: ../metaboxes.php:574 ../metaboxes.php:712 ../metaboxes.php:1018
+msgid "If Video Post"
+msgstr ""
+
+#: ../metaboxes.php:575
+msgid "Place Embed Code Here, works with youtube, vimeo."
+msgstr ""
+
+#: ../metaboxes.php:583 ../metaboxes.php:1027
+msgid "Contact Page Options"
+msgstr ""
+
+#: ../metaboxes.php:589 ../metaboxes.php:1033
+msgid "Use Contact Form"
+msgstr ""
+
+#: ../metaboxes.php:599 ../metaboxes.php:1043
+msgid "Contact Form Title"
+msgstr ""
+
+#: ../metaboxes.php:600 ../metaboxes.php:1044
+msgid "ex. Send us an Email"
+msgstr ""
+
+#: ../metaboxes.php:605
+msgid "Contact Form Email Recipient"
+msgstr ""
+
+#: ../metaboxes.php:606
+msgid "ex. joe@gmail.com"
+msgstr ""
+
+#: ../metaboxes.php:611 ../metaboxes.php:1049
+msgid "Use Simple Math Question"
+msgstr ""
+
+#: ../metaboxes.php:612 ../metaboxes.php:1050
+msgid "Adds a simple math question to form."
+msgstr ""
+
+#: ../metaboxes.php:621 ../metaboxes.php:1059
+msgid "Use Map"
+msgstr ""
+
+#: ../metaboxes.php:622 ../metaboxes.php:1060
+msgid ""
+"You need free api for google maps to work, add in the theme options > misc "
+"settings."
+msgstr ""
+
+#: ../metaboxes.php:631 ../metaboxes.php:1069
+msgid "Address"
+msgstr ""
+
+#: ../metaboxes.php:632 ../metaboxes.php:1070
+msgid "Enter your Location"
+msgstr ""
+
+#: ../metaboxes.php:637 ../metaboxes.php:1075
+msgid "Map Type"
+msgstr ""
+
+#: ../metaboxes.php:642 ../metaboxes.php:1080
+msgid "ROADMAP"
+msgstr ""
+
+#: ../metaboxes.php:643 ../metaboxes.php:1081
+msgid "HYBRID"
+msgstr ""
+
+#: ../metaboxes.php:644 ../metaboxes.php:1082
+msgid "TERRAIN"
+msgstr ""
+
+#: ../metaboxes.php:645 ../metaboxes.php:1083
+msgid "SATELLITE"
+msgstr ""
+
+#: ../metaboxes.php:649 ../metaboxes.php:1087
+msgid "Map Zoom Level"
+msgstr ""
+
+#: ../metaboxes.php:650 ../metaboxes.php:1088
+msgid "A good place to start is 15"
+msgstr ""
+
+#: ../metaboxes.php:654 ../metaboxes.php:1092
+msgid "1 (World View)"
+msgstr ""
+
+#: ../metaboxes.php:655 ../metaboxes.php:1093
+msgid "2"
+msgstr ""
+
+#: ../metaboxes.php:670 ../metaboxes.php:1108
+msgid "17"
+msgstr ""
+
+#: ../metaboxes.php:671 ../metaboxes.php:1109
+msgid "18"
+msgstr ""
+
+#: ../metaboxes.php:672 ../metaboxes.php:1110
+msgid "19"
+msgstr ""
+
+#: ../metaboxes.php:673 ../metaboxes.php:1111
+msgid "20"
+msgstr ""
+
+#: ../metaboxes.php:674 ../metaboxes.php:1112
+msgid "21 (Street View)"
+msgstr ""
+
+#: ../metaboxes.php:678 ../metaboxes.php:1116
+msgid "Map Height"
+msgstr ""
+
+#: ../metaboxes.php:679 ../metaboxes.php:1117
+msgid "Default is 300"
+msgstr ""
+
+#: ../metaboxes.php:707
+msgid "Post Video Box"
+msgstr ""
+
+#: ../metaboxes.php:731
+msgid "Beside"
+msgstr ""
+
+#: ../metaboxes.php:743 ../metaboxes.php:984
+msgid "Image Slider"
+msgstr ""
+
+#: ../metaboxes.php:744
+msgid "Carousel Slider"
+msgstr ""
+
+#: ../metaboxes.php:765
+msgid "Default is: 450 <b>(Note: just input number, example: 350)</b>"
+msgstr ""
+
+#: ../metaboxes.php:771
+msgid ""
+"Default is: 670 or 1140 on <b>above</b> or <b>three row</b> layouts (Note: "
+"just input number, example: 650)</b>"
+msgstr ""
+
+#: ../metaboxes.php:776
+msgid "Auto Play Slider?"
+msgstr ""
+
+#: ../metaboxes.php:852
+msgid "Similar Portfolio Item Carousel"
+msgstr ""
+
+#: ../metaboxes.php:853
+msgid "Display a carousel with similar portfolio items below project?"
+msgstr ""
+
+#: ../metaboxes.php:858
+msgid "Yes - Display Recent Projects"
+msgstr ""
+
+#: ../metaboxes.php:942
+msgid "Set image height"
+msgstr ""
+
+#: ../metaboxes.php:943
+msgid "Default is 1:1 ratio <b>(Note: just input number, example: 350)</b>"
+msgstr ""
+
+#: ../metaboxes.php:960
+msgid "Add Lightbox link in the top right of each item"
+msgstr ""
+
+#: ../metaboxes.php:979
+msgid "Feature Options"
+msgstr ""
+
+#: ../metaboxes.php:980
+msgid "If image slider make sure images uploaded are at least 1140px wide."
+msgstr ""
+
+#: ../metaboxes.php:990 ../metaboxes.php:1130
+msgid "Slider Gallery"
+msgstr ""
+
+#: ../metaboxes.php:997
+msgid "Default is: 400 <b>(Note: just input number, example: 350)</b>"
+msgstr ""
+
+#: ../metaboxes.php:1003
+msgid ""
+"Default is: 1140 <b>(Note: just input number, example: 650, does not apply "
+"to Carousel slider)</b>"
+msgstr ""
+
+#: ../metaboxes.php:1008
+msgid "Use Lightbox for Feature Image"
+msgstr ""
+
+#: ../metaboxes.php:1009
+msgid ""
+"If feature option is set to image, choose to use lightbox link with image."
+msgstr ""
+
+#: ../metaboxes.php:1158
+msgid "Image Slider with thumbnails - (Cropped Image Ratio)"
+msgstr ""
+
+#: ../metaboxes.php:1159 ../metaboxes.php:1301
+msgid "Image Carousel - (Muiltiple Images Showing At Once)"
+msgstr ""
+
+#: ../metaboxes.php:1160 ../metaboxes.php:1302
+msgid "Image Collage - (Use 2 to 5 images)"
+msgstr ""
+
+#: ../metaboxes.php:1161
+msgid "Shortcode"
+msgstr ""
+
+#: ../metaboxes.php:1167 ../metaboxes.php:1324
+msgid "Add images for gallery here - Use large images"
+msgstr ""
+
+#: ../metaboxes.php:1173
+msgid "Gallery Post Shortcode"
+msgstr ""
+
+#: ../metaboxes.php:1174
+msgid "If using shortcode place here."
+msgstr ""
+
+#: ../metaboxes.php:1179 ../metaboxes.php:1341
+msgid "Max Slider/Image Height"
+msgstr ""
+
+#: ../metaboxes.php:1180 ../metaboxes.php:1342
+msgid "Note: just input number, example: 350"
+msgstr ""
+
+#: ../metaboxes.php:1185 ../metaboxes.php:1335
+msgid "Max Slider/Image Width"
+msgstr ""
+
+#: ../metaboxes.php:1186 ../metaboxes.php:1243 ../metaboxes.php:1336
+msgid "Note: just input number, example: 650"
+msgstr ""
+
+#: ../metaboxes.php:1197 ../metaboxes.php:1255
+msgid "Portrait Image (feature image)"
+msgstr ""
+
+#: ../metaboxes.php:1198 ../metaboxes.php:1256
+msgid "Landscape Image (feature image)"
+msgstr ""
+
+#: ../metaboxes.php:1201
+msgid "Photo Collage - (Use 2 to 5 images)"
+msgstr ""
+
+#: ../metaboxes.php:1224
+msgid "Video post embed"
+msgstr ""
+
+#: ../metaboxes.php:1225 ../metaboxes.php:1330
+msgid ""
+"Place url, embed code or shortcode, works with youtube, vimeo. (Use the "
+"featured image for screen shot)"
+msgstr ""
+
+#: ../metaboxes.php:1230
+msgid "Video Meta Title"
+msgstr ""
+
+#: ../metaboxes.php:1231 ../metaboxes.php:1237
+msgid "Used for SEO purposes"
+msgstr ""
+
+#: ../metaboxes.php:1236
+msgid "Video Meta description"
+msgstr ""
+
+#: ../metaboxes.php:1262
+msgid "Quote Post Options"
+msgstr ""
+
+#: ../metaboxes.php:1267
+msgid "Quote author"
+msgstr ""
+
+#: ../metaboxes.php:1275
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../metaboxes.php:1300
+msgid "Image Slider with thumbnails (Cropped Image Ratio)"
+msgstr ""
+
+#: ../metaboxes.php:1315
+msgid "Two Columns"
+msgstr ""
+
+#: ../metaboxes.php:1316
+msgid "Three Columns"
+msgstr ""
+
+#: ../metaboxes.php:1317
+msgid "Four Columns"
+msgstr ""
+
+#: ../metaboxes.php:1318
+msgid "Five Columns"
+msgstr ""
+
+#: ../metaboxes.php:1319
+msgid "Six Columns"
+msgstr ""
+
+#: ../metaboxes.php:1323
+msgid "Portfolio Image Gallery"
+msgstr ""
+
+#: ../metaboxes.php:1329
+msgid "Video embed"
+msgstr ""
+
+#: ../metaboxes.php:1349
+msgid "Portfolio Bottom Carousel Options"
+msgstr ""
+
+#: ../metaboxes.php:1366
+msgid "Related Post Carousel"
+msgstr ""
+
+#: ../metaboxes.php:1367
+msgid "Recent Portfolio Carousel"
+msgstr ""
+
+#: ../metaboxes.php:1368
+msgid "No Carousel"
+msgstr ""
+
+#: ../page-contact.php:12 ../template-contact.php:13
+msgid "This field is required."
+msgstr ""
+
+#: ../page-contact.php:12 ../template-contact.php:14
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ../page-contact.php:96 ../template-contact.php:104
+msgid "Check your math."
+msgstr ""
+
+#: ../page-contact.php:101 ../template-contact.php:109
+msgid "Please enter your name."
+msgstr ""
+
+#: ../page-contact.php:108 ../template-contact.php:116
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../page-contact.php:111 ../template-contact.php:119
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../page-contact.php:118 ../template-contact.php:126
+msgid "Please enter a message."
+msgstr ""
+
+#: ../page-contact.php:139 ../pagetemplater.php:30 ../pagetemplater.php:128
+#: ../template-contact.php:147
+msgid "Contact"
+msgstr ""
+
+#: ../page-contact.php:139 ../template-contact.php:147
+msgid "From"
+msgstr ""
+
+#: ../page-contact.php:140 ../template-contact.php:148
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:141 ../template-contact.php:149
+msgid "Email"
+msgstr ""
+
+#: ../page-contact.php:142 ../template-contact.php:150
+msgid "Comments"
+msgstr ""
+
+#: ../page-contact.php:180 ../template-contact.php:185
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: ../page-contact.php:185 ../template-contact.php:189
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: ../page-contact.php:191 ../template-contact.php:195
+msgid "Name:"
+msgstr ""
+
+#: ../page-contact.php:199 ../template-contact.php:205
+msgid "Email:"
+msgstr ""
+
+#: ../page-contact.php:207 ../template-contact.php:212
+msgid "Message:"
+msgstr ""
+
+#: ../page-contact.php:227 ../template-contact.php:230
+msgid "Send Email"
+msgstr ""
+
+#: ../post-types.php:5 ../post-types.php:17
+msgid "Portfolio"
+msgstr ""
+
+#: ../post-types.php:6
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../post-types.php:7
+msgid "Add New"
+msgstr ""
+
+#: ../post-types.php:8
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../post-types.php:9
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../post-types.php:10
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../post-types.php:11
+msgid "All Portfolio"
+msgstr ""
+
+#: ../post-types.php:12
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../post-types.php:13
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../post-types.php:14
+msgid "No Portfolio Item found"
+msgstr ""
+
+#: ../post-types.php:15
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: ../post-types.php:37
+msgid "Portfolio Type"
+msgstr ""
+
+#: ../post-types.php:38
+msgid "Type"
+msgstr ""
+
+#: ../post-types.php:39
+msgid "Search Type"
+msgstr ""
+
+#: ../post-types.php:40
+msgid "All Type"
+msgstr ""
+
+#: ../post-types.php:41
+msgid "Parent Type"
+msgstr ""
+
+#: ../post-types.php:42
+msgid "Parent Type:"
+msgstr ""
+
+#: ../post-types.php:43
+msgid "Edit Type"
+msgstr ""
+
+#: ../post-types.php:44
+msgid "Update Type"
+msgstr ""
+
+#: ../post-types.php:45
+msgid "Add New Type"
+msgstr ""
+
+#: ../post-types.php:46
+msgid "New Type Name"
+msgstr ""
+
+#: ../shortcode_ajax.php:4 ../shortcode_ajax.php:13 ../shortcode_ajax.php:22
+#: ../shortcode_ajax.php:31 ../shortcode_ajax.php:40 ../shortcode_ajax.php:49
+#: ../shortcode_ajax.php:58 ../shortcode_ajax.php:67
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../shortcodes.php:178 ../shortcodes.php:183 ../shortcodes.php:209
+#: ../shortcodes.php:214
+msgid "please specify correct url"
+msgstr ""
+
+#: ../shortcodes/accordion/accordion_popup.php:10
+msgid "Insert Accordion or Tabs"
+msgstr ""
+
+#: ../shortcodes/accordion/accordion_popup.php:59
+msgid "Accordion or Tabs"
+msgstr ""
+
+#: ../shortcodes/accordion/accordion_popup.php:61
+msgid "Accordion"
+msgstr ""
+
+#: ../shortcodes/accordion/accordion_popup.php:62
+msgid "Tabs"
+msgstr ""
+
+#: ../shortcodes/accordion/accordion_popup.php:66
+#: ../shortcodes/btns/btns_popup.php:230
+#: ../shortcodes/divider/divider_popup.php:80
+#: ../shortcodes/pullquote/quote_popup.php:77
+#: ../shortcodes/vimeo/vimeo_popup.php:85
+#: ../shortcodes/youtube/youtube_popup.php:85
+msgid "Insert"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:10
+msgid "Insert Button"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:99
+msgid "Button Text"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:105
+msgid "Text Color"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:107 ../shortcodes/btns/btns_popup.php:140
+#: ../shortcodes/btns/btns_popup.php:163 ../shortcodes/btns/btns_popup.php:196
+msgid "White"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:108 ../shortcodes/btns/btns_popup.php:141
+#: ../shortcodes/btns/btns_popup.php:164 ../shortcodes/btns/btns_popup.php:197
+msgid "Off-White"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:109 ../shortcodes/btns/btns_popup.php:135
+#: ../shortcodes/btns/btns_popup.php:165 ../shortcodes/btns/btns_popup.php:191
+msgid "Black"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:110 ../shortcodes/btns/btns_popup.php:136
+#: ../shortcodes/btns/btns_popup.php:166 ../shortcodes/btns/btns_popup.php:192
+msgid "Light-Gray"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:111 ../shortcodes/btns/btns_popup.php:137
+#: ../shortcodes/btns/btns_popup.php:167 ../shortcodes/btns/btns_popup.php:193
+msgid "Gray"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:112 ../shortcodes/btns/btns_popup.php:138
+#: ../shortcodes/btns/btns_popup.php:168 ../shortcodes/btns/btns_popup.php:194
+msgid "Dark-Gray"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:113 ../shortcodes/btns/btns_popup.php:139
+#: ../shortcodes/btns/btns_popup.php:169 ../shortcodes/btns/btns_popup.php:195
+msgid "Silver"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:114 ../shortcodes/btns/btns_popup.php:142
+#: ../shortcodes/btns/btns_popup.php:170 ../shortcodes/btns/btns_popup.php:198
+msgid "Red"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:115 ../shortcodes/btns/btns_popup.php:143
+#: ../shortcodes/btns/btns_popup.php:171 ../shortcodes/btns/btns_popup.php:199
+msgid "Blue"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:116 ../shortcodes/btns/btns_popup.php:144
+#: ../shortcodes/btns/btns_popup.php:172 ../shortcodes/btns/btns_popup.php:200
+msgid "Green"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:117 ../shortcodes/btns/btns_popup.php:145
+#: ../shortcodes/btns/btns_popup.php:173 ../shortcodes/btns/btns_popup.php:201
+msgid "Yellow"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:118 ../shortcodes/btns/btns_popup.php:146
+#: ../shortcodes/btns/btns_popup.php:174 ../shortcodes/btns/btns_popup.php:202
+msgid "Orange"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:119 ../shortcodes/btns/btns_popup.php:147
+#: ../shortcodes/btns/btns_popup.php:175 ../shortcodes/btns/btns_popup.php:203
+msgid "Pink"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:120 ../shortcodes/btns/btns_popup.php:148
+#: ../shortcodes/btns/btns_popup.php:176 ../shortcodes/btns/btns_popup.php:204
+msgid "Purple"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:121 ../shortcodes/btns/btns_popup.php:149
+#: ../shortcodes/btns/btns_popup.php:177 ../shortcodes/btns/btns_popup.php:205
+msgid "Brown"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:122 ../shortcodes/btns/btns_popup.php:150
+#: ../shortcodes/btns/btns_popup.php:178 ../shortcodes/btns/btns_popup.php:206
+msgid "Maroon"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:126 ../shortcodes/btns/btns_popup.php:155
+#: ../shortcodes/btns/btns_popup.php:182 ../shortcodes/btns/btns_popup.php:210
+msgid "Or Type Hex Color"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:132
+msgid "Button Color"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:161
+msgid "Text Hover Color"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:188
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:190
+msgid "30% Primary Color"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:216
+msgid "Button Link"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:222
+msgid "Button Link Target"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:224
+#: ../widgets/class-ascend-image-widget.php:95
+#: ../widgets/class-kad-image-widget.php:70
+#: ../widgets/class-simple-about-with-image.php:73
+msgid "Same Window"
+msgstr ""
+
+#: ../shortcodes/btns/btns_popup.php:225
+msgid "New Window/Tab"
+msgstr ""
+
+#: ../shortcodes/columns/columns_popup.php:10
+msgid "Insert Columns"
+msgstr ""
+
+#: ../shortcodes/divider/divider_popup.php:10
+msgid "Insert Divider"
+msgstr ""
+
+#: ../shortcodes/divider/divider_popup.php:70
+msgid "Choose a Divider"
+msgstr ""
+
+#: ../shortcodes/divider/divider_popup.php:72
+msgid "Line"
+msgstr ""
+
+#: ../shortcodes/divider/divider_popup.php:73
+msgid "Padding Small"
+msgstr ""
+
+#: ../shortcodes/divider/divider_popup.php:74
+msgid "Padding Medium"
+msgstr ""
+
+#: ../shortcodes/divider/divider_popup.php:75
+msgid "Padding Large"
+msgstr ""
+
+#: ../shortcodes/divider/divider_popup.php:76
+msgid "Clear"
+msgstr ""
+
+#: ../shortcodes/icons/icon_popup.php:10
+msgid "Insert Icon"
+msgstr ""
+
+#: ../shortcodes/pullquote/quote_popup.php:10
+msgid "Insert Styled Quote"
+msgstr ""
+
+#: ../shortcodes/pullquote/quote_popup.php:61
+msgid "Pull-Quote"
+msgstr ""
+
+#: ../shortcodes/pullquote/quote_popup.php:62
+msgid "Block-Quote"
+msgstr ""
+
+#: ../shortcodes/pullquote/quote_popup.php:68
+msgid "Align"
+msgstr ""
+
+#: ../shortcodes/pullquote/quote_popup.php:70
+msgid "Center"
+msgstr ""
+
+#: ../shortcodes/pullquote/quote_popup.php:71
+msgid "Left"
+msgstr ""
+
+#: ../shortcodes/pullquote/quote_popup.php:72
+msgid "Right"
+msgstr ""
+
+#: ../shortcodes/vimeo/vimeo_popup.php:10
+msgid "Insert Vimeo Video"
+msgstr ""
+
+#: ../shortcodes/vimeo/vimeo_popup.php:66
+msgid "Vimeo Link"
+msgstr ""
+
+#: ../shortcodes/vimeo/vimeo_popup.php:70
+#: ../shortcodes/youtube/youtube_popup.php:70
+msgid "Width"
+msgstr ""
+
+#: ../shortcodes/vimeo/vimeo_popup.php:72
+#: ../shortcodes/vimeo/vimeo_popup.php:77
+#: ../shortcodes/vimeo/vimeo_popup.php:82
+#: ../shortcodes/youtube/youtube_popup.php:72
+#: ../shortcodes/youtube/youtube_popup.php:77
+#: ../shortcodes/youtube/youtube_popup.php:82
+msgid "note just use number"
+msgstr ""
+
+#: ../shortcodes/vimeo/vimeo_popup.php:75
+#: ../shortcodes/youtube/youtube_popup.php:75
+msgid "Height"
+msgstr ""
+
+#: ../shortcodes/vimeo/vimeo_popup.php:80
+#: ../shortcodes/youtube/youtube_popup.php:80
+msgid "(Optional) Max Width"
+msgstr ""
+
+#: ../shortcodes/youtube/youtube_popup.php:10
+msgid "Insert YouTube Video"
+msgstr ""
+
+#: ../shortcodes/youtube/youtube_popup.php:66
+msgid "YouTube Link"
+msgstr ""
+
+#: ../virtue_toolkit.php:92
+msgid "Basic Slider"
+msgstr ""
+
+#: ../virtue_toolkit.php:92
+msgid "Post Carousel"
+msgstr ""
+
+#: ../welcome.php:35
+msgid "Getting Started with: "
+msgstr ""
+
+#: ../welcome.php:35 ../welcome.php:81
+msgid "Getting Started"
+msgstr ""
+
+#: ../welcome.php:50
+msgid "The Kadence Toolkit is only designed to work with Kadence Themes"
+msgstr ""
+
+#: ../welcome.php:62
+msgid "Getting Started with "
+msgstr ""
+
+#: ../welcome.php:65
+msgid "Demo content, recomended plugins and helpful links."
+msgstr ""
+
+#: ../welcome.php:73
+msgid "Helpful Links"
+msgstr ""
+
+#: ../welcome.php:74 ../welcome.php:98
+msgid "Recomended Plugins"
+msgstr ""
+
+#: ../welcome.php:75 ../welcome.php:83
+msgid "Demo Content"
+msgstr ""
+
+#: ../welcome.php:82
+msgid " Documention"
+msgstr ""
+
+#: ../welcome.php:84
+msgid "Tutorials"
+msgstr ""
+
+#: ../welcome.php:85
+msgid "Support"
+msgstr ""
+
+#: ../welcome.php:93
+msgid " Support Forms"
+msgstr ""
+
+#: ../welcome.php:99
+msgid ""
+"These are plugins are not required. Just some cool plugins with cool "
+"features that can really enhance your site."
+msgstr ""
+
+#: ../welcome.php:118
+msgid "Install Demo Content Importer"
+msgstr ""
+
+#: ../welcome.php:119
+msgid ""
+"This importer plugin allows you to fill your site with demo content from "
+"one of the theme demos."
+msgstr ""
+
+#: ../welcome.php:120
+msgid "For a turorial on how to use the Importer go here:"
+msgstr ""
+
+#: ../welcome.php:144
+msgid "Featured Theme"
+msgstr ""
+
+#: ../welcome.php:153
+msgid "Featured Plugin"
+msgstr ""
+
+#: ../welcome.php:217
+msgid "Manage Plugins"
+msgstr ""
+
+#: ../welcome.php:218
+msgid "Activated"
+msgstr ""
+
+#: ../welcome.php:262
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: ../welcome.php:263
+msgid "Theme Plugins"
+msgstr ""
+
+#: ../welcome.php:264
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../welcome.php:265
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../welcome.php:276
+msgid "Return to recommended Plugins Installer"
+msgstr ""
+
+#: ../welcome.php:277
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../welcome.php:278
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../welcome.php:287
+msgid "Settings"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:10
+#: ../widgets/class-kad-image-widget.php:11
+#: ../widgets/class-simple-about-with-image.php:11
+msgid "This allows for an image and a simple about text."
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:11
+msgid "Ascend: Image"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:93
+#: ../widgets/class-kad-image-widget.php:68
+#: ../widgets/class-simple-about-with-image.php:71
+msgid "Lightbox"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:94
+#: ../widgets/class-kad-image-widget.php:69
+#: ../widgets/class-simple-about-with-image.php:72
+msgid "New Window"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:96
+#: ../widgets/class-kad-image-widget.php:71
+#: ../widgets/class-simple-about-with-image.php:74
+msgid "No Link"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:112
+#: ../widgets/class-kad-image-widget.php:83
+#: ../widgets/class-simple-about-with-image.php:86
+msgid "Image URL"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:115
+#: ../widgets/class-kad-image-widget.php:85
+#: ../widgets/class-simple-about-with-image.php:88
+msgid "Upload"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:118
+msgid "Image size"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:122
+msgid "Custom Width"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:126
+msgid "Custom Height"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:130
+#: ../widgets/class-kad-image-widget.php:88
+#: ../widgets/class-simple-about-with-image.php:91
+msgid "Image opens in"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:134
+#: ../widgets/class-kad-image-widget.php:92
+#: ../widgets/class-simple-about-with-image.php:95
+msgid "Image Link (optional)"
+msgstr ""
+
+#: ../widgets/class-ascend-image-widget.php:138
+#: ../widgets/class-kad-image-widget.php:96
+#: ../widgets/class-simple-about-with-image.php:99
+msgid "Text/Caption (optional)"
+msgstr ""
+
+#: ../widgets/class-kad-image-widget.php:12
+msgid "Pinnacle: Image"
+msgstr ""
+
+#: ../widgets/class-simple-about-with-image.php:12
+msgid "Virtue: Image"
+msgstr ""

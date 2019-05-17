@@ -1,0 +1,18 @@
+[13-May-2019 16:27:08 UTC] Semaphore (smush, wp_options) being initialised
+[13-May-2019 16:27:08 UTC] Set semaphore last lock (smush) time to 2019-05-13 16:27:08
+[13-May-2019 16:27:08 UTC] Semaphore lock (smush) complete
+[13-May-2019 16:27:08 UTC] Semaphore (1-smush, wp_options) being initialised
+[13-May-2019 16:27:08 UTC] Set semaphore last lock (1-smush) time to 2019-05-13 16:27:08
+[13-May-2019 16:27:08 UTC] Semaphore lock (1-smush) complete
+[13-May-2019 16:27:08 UTC] Processing task with ID : 1, and type 'smush'
+[13-May-2019 16:27:08 UTC] Semaphore (1-smush, wp_options) was successfully cleaned up
+[13-May-2019 16:27:08 UTC] Semaphore (2-smush, wp_options) being initialised
+[13-May-2019 16:27:08 UTC] Set semaphore last lock (2-smush) time to 2019-05-13 16:27:08
+[13-May-2019 16:27:08 UTC] Semaphore lock (2-smush) complete
+[13-May-2019 16:27:08 UTC] Processing task with ID : 2, and type 'smush'
+[13-May-2019 16:27:13 UTC] Decremented the semaphore (2-smush) by 1
+[13-May-2019 16:27:13 UTC] Semaphore (2-smush) unlocked
+[13-May-2019 16:27:13 UTC] Semaphore (2-smush, wp_options) was successfully cleaned up
+[13-May-2019 16:27:13 UTC] Decremented the semaphore (smush) by 1
+[13-May-2019 16:27:13 UTC] Semaphore (smush) unlocked
+[13-May-2019 16:27:13 UTC] Semaphore (smush, wp_options) was successfully cleaned up

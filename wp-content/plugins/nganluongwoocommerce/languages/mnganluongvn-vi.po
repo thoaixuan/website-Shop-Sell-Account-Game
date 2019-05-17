@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ngan Luong - Wordpress plugin\n"
+"POT-Creation-Date: 2014-03-16 18:41+0700\n"
+"PO-Revision-Date: 2014-03-16 18:42+0700\n"
+"Last-Translator: Josh Kopecek <joshkopecek@gmail.com>\n"
+"Language-Team: Hanoi Grapevine <hanoigrapevine@gmail.com>\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../nganluongvn.php:49
+msgid "Activate"
+msgstr "Bắt"
+
+#: ../nganluongvn.php:51
+msgid "Activate the payment gateway for Ngan Luong"
+msgstr "Kích hoạt cổng thanh toán NganLuong.vn cho Woocommerce"
+
+#: ../nganluongvn.php:54
+msgid "Name:"
+msgstr "Tên:"
+
+#: ../nganluongvn.php:56
+msgid "Name of payment method (as the customer sees it)"
+msgstr ""
+"Tên phương thức thanh toán ( khi khách hàng chọn phương thức thanh toán )"
+
+#: ../nganluongvn.php:57
+msgid "NganLuongVN"
+msgstr ""
+
+#: ../nganluongvn.php:61
+msgid "Payment gateway description"
+msgstr "Mô tả phương thức thanh toán."
+
+#: ../nganluongvn.php:62
+msgid ""
+"<img src=\"https://www.nganluong.vn/webskins/skins/nganluong/images/"
+"CertifiedLogo-gr.png\" /><br /><br />Ví điện tử chuyên ngành thương mại điện "
+"tử DUY NHẤT được Ngân hàng Nhà nước cấp phép.\r\n"
+"                      <br />Với NganLuong.vn Quý khách có thể thanh toán "
+"bằng thẻ Ngân Hàng."
+msgstr " "
+
+#: ../nganluongvn.php:65
+msgid "NganLuong.vn account"
+msgstr "Tải khoàn NganLuong.vn"
+
+#: ../nganluongvn.php:67
+msgid "The email address registered at NganLuong.vn to receive money"
+msgstr "Đây là tài khoản NganLuong.vn (Email) để nhận tiền của khách hàng."
+
+#: ../nganluongvn.php:70
+msgid "Return URL"
+msgstr "Trang trả về"
+
+#: ../nganluongvn.php:73
+msgid "Please choose the URL to return to after checking out at NganLuong.vn"
+msgstr ""
+"Hãy chọn trang/url để chuyển đến sau khi khách hàng đã thanh toán tại "
+"NganLuong.vn thành công."
+
+#: ../nganluongvn.php:76
+msgid "Currency"
+msgstr "Tiền tệ"
+
+#: ../nganluongvn.php:79
+msgid "\"vnd\" or \"usd\""
+msgstr "\"vnd\" hoặc \"usd\""
+
+#: ../nganluongvn.php:85
+#, fuzzy
+msgid "NganLuongVN Payment Gateway"
+msgstr "Mô tả phương thức thanh toán."
+
+#: ../nganluongvn.php:86
+msgid ""
+"NganLuong.VN Ví điện tử chuyên ngành thương mại điện tử DUY NHẤT được Ngân "
+"hàng Nhà nước Việt Nam cấp phép.<br /><br />Lưu ý : phiên bản miễn phí này "
+"không hỗ trợ tự động kiểm tra khách hàng đã gửi tiền thanh toán hay chưa "
+"trong Woocommerce (chỉ có ở phiên bản Premium). Quản lý shop phải tự kiểm "
+"tra trong NganLuong.vn\r\n"
+"          <br /><br /><small>Ghé thăm <a href=\"http://www.minhz.com\" "
+"target=\"_blank\">MinhZ.com</a>. Nếu bạn muốn mời tác giả plugin 1 ly cafe "
+"qua NganLuong.vn ( thaiminh2020@gmail.com )</small>"
+msgstr ""
+
+#: ../nganluongvn.php:106
+msgid ""
+"We have received your your order. Please click below to proceed to the Ngan "
+"Luong checkout page."
+msgstr ""
+"Chúng tôi đã nhận được Đơn mua hàng của bạn. <br /><b>Tiếp theo, hãy bấm nút "
+"Thanh toán bên dưới để tiến hành thanh toán an toàn qua NganLuong.vn ..."
+
+#: ../nganluongvn.php:128
+msgid "Cancel the order"
+msgstr "Huỷ đơn hàng"
+
+#~ msgid "Description"
+#~ msgstr "Mô tả"
+
+#~ msgid "Activate / Deactivate"
+#~ msgstr "Bật / Tắt"
+
+#, fuzzy
+#~ msgid "Enter return url"
+#~ msgstr "Điền đường dẫn"
+
+#, fuzzy
+#~ msgid "Enter merchant ID"
+#~ msgstr "Id"
+
+#, fuzzy
+#~ msgid "Enter secure_code "
+#~ msgstr "Mã"
+
+#, fuzzy
+#~ msgid "Error exporting post."
+#~ msgstr "Bài viết"
+
+#, fuzzy
+#~ msgid "Enable/Disable"
+#~ msgstr "Bật JavaScript"
+
+#, fuzzy
+#~ msgid "Enable Pesapal Payment"
+#~ msgstr "Phương thức thanh toán:"
+
+#, fuzzy
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#, fuzzy
+#~ msgid "Pesapal Payment"
+#~ msgstr "Phương thức thanh toán:"
+
+#, fuzzy
+#~ msgid "Use IPN"
+#~ msgstr "Sử dụng nâng cao trình soạn thảo nâng cao"
+
+#, fuzzy
+#~ msgid "IPN URL"
+#~ msgstr "Liên kết"
+
+#, fuzzy
+#~ msgid "Pesapal Consumer Key"
+#~ msgstr "Key không đúng"
+
+#, fuzzy
+#~ msgid "Pesapal Secret Key"
+#~ msgstr "Key không đúng"
+
+#, fuzzy
+#~ msgid "Use Demo Gateway"
+#~ msgstr "Sử dụng nâng cao trình soạn thảo nâng cao"
+
+#, fuzzy
+#~ msgid "Debug Log"
+#~ msgstr "Đăng nhập"
+
+#, fuzzy
+#~ msgid "Enable logging"
+#~ msgstr "Bật JavaScript"
+
+#, fuzzy
+#~ msgid "Payment confirmed."
+#~ msgstr "Phương thức thanh toán:"
+
+#, fuzzy
+#~ msgid "Payment denied by gateway."
+#~ msgstr "Phương thức thanh toán:"
+
+#, fuzzy
+#~ msgid "IPN payment completed"
+#~ msgstr "Phương thức thanh toán:"
+
+#, fuzzy
+#~ msgid "Payment pending: %s"
+#~ msgstr "Chờ xét duyệt"
+
+#, fuzzy
+#~ msgid "Payment"
+#~ msgstr "Phương thức thanh toán:"
+
+#, fuzzy
+#~ msgid "Enable SagePay Direct"
+#~ msgstr "Bật JavaScript"
+
+#, fuzzy
+#~ msgid "Vendor Name"
+#~ msgstr "Tên"
+
+#, fuzzy
+#~ msgid "Mode Type"
+#~ msgstr "Định dạng"
+
+#, fuzzy
+#~ msgid "Transition Type"
+#~ msgstr "Định dạng"
+
+#, fuzzy
+#~ msgid "Admin Order Page"
+#~ msgstr "Thứ tự trang"
+
+#, fuzzy
+#~ msgid "Show Transaction Table"
+#~ msgstr "Tùy chọn về hình ảnh"
+
+#, fuzzy
+#~ msgid "displays the transaction process."
+#~ msgstr "Hiển thị trên trang trước"
+
+#, fuzzy
+#~ msgid "Debug Email Address"
+#~ msgstr "Địa chỉ email"
+
+#, fuzzy
+#~ msgid "Card Type"
+#~ msgstr "Định dạng"
+
+#, fuzzy
+#~ msgid "Card Number"
+#~ msgstr "{#field} phải là một con số."
+
+#, fuzzy
+#~ msgid "Valid From"
+#~ msgstr "Thể loại quy định gửi là không hợp lệ"
+
+#, fuzzy
+#~ msgid "Valid Until"
+#~ msgstr "Thể loại quy định gửi là không hợp lệ"
+
+#, fuzzy
+#~ msgid " - unknown error."
+#~ msgstr "%s dòng thông tin Atom"
+
+#, fuzzy
+#~ msgid "Date"
+#~ msgstr "Ngày:"
+
+#, fuzzy
+#~ msgid "Payment Type"
+#~ msgstr "Định dạng"
+
+#, fuzzy
+#~ msgid "Value"
+#~ msgstr ""
+#~ "Sử dụng <code>get_trackback_url()</code> nếu bạn không muốn giá trị hiển "
+#~ "thị trên trang web."
+
+#, fuzzy
+#~ msgid "Status"
+#~ msgstr "Trạng thái"
+
+#, fuzzy
+#~ msgid "Status Detail"
+#~ msgstr "Trạng thái"
+
+#, fuzzy
+#~ msgid "Address Verification"
+#~ msgstr "Địa chỉ"
+
+#, fuzzy
+#~ msgid "Address"
+#~ msgstr "Địa chỉ"
+
+#, fuzzy
+#~ msgid "Postcode Verification"
+#~ msgstr "Mã bưu điện / Zip"
+
+#, fuzzy
+#~ msgid "Postcode"
+#~ msgstr "Mã bưu điện / Zip"
+
+#, fuzzy
+#~ msgid "Action(s)"
+#~ msgstr "Tác vụ"
+
+#, fuzzy
+#~ msgid "N/A"
+#~ msgstr "Bật/Tắt kiểm tra chính tả"
+
+#, fuzzy
+#~ msgid " 3D-Authentication is required."
+#~ msgstr "(yêu cầu)"
+
+#, fuzzy
+#~ msgid "Woocommerce sidebar."
+#~ msgstr "Thanh bên"
+
+#, fuzzy
+#~ msgid "This displays on the woocommerce shop page"
+#~ msgstr "Hiển thị trên trang trước"
+
+#, fuzzy
+#~ msgid "Search Shop Brands"
+#~ msgstr "Search Shop Brands"
+
+#, fuzzy
+#~ msgid "All Shop Brands"
+#~ msgstr "Search Shop Brands"
+
+#, fuzzy
+#~ msgid "Edit Shop Brands"
+#~ msgstr "Search Shop Brands"
+
+#, fuzzy
+#~ msgid "Update Shop Brands"
+#~ msgstr "Update Shop Brands"
+
+#, fuzzy
+#~ msgid "Add New Shop Brand"
+#~ msgstr "Thêm mới"
+
+#, fuzzy
+#~ msgid "New Shop Brand Name"
+#~ msgstr "Mục liên kết mới"
+
+#, fuzzy
+#~ msgid "Separate Shop Brands with commas"
+#~ msgstr "Phân cách các thẻ bằng dấu phẩy (,)."
+
+#, fuzzy
+#~ msgid "Add or remove shop brands"
+#~ msgstr "Search Shop Brands"
+
+#, fuzzy
+#~ msgid "No shop brands found."
+#~ msgstr "Search Shop Brands"
+
+#, fuzzy
+#~ msgid "Shop Brands"
+#~ msgstr "Search Shop Brands"
+
+#, fuzzy
+#~ msgid "Enable Cheque Payment"
+#~ msgstr "Phương thức thanh toán:"
+
+#, fuzzy
+#~ msgid "Customer Message"
+#~ msgstr "(Thông điệp này đã được thêm vào trong phiên bản %s.)"
+
+#, fuzzy
+#~ msgid "Ngan Luong URL"
+#~ msgstr "Liên kết"
+
+#, fuzzy
+#~ msgid "Merchant Site Code"
+#~ msgstr "Mã"
+
+#, fuzzy
+#~ msgid "Secure Password"
+#~ msgstr "Mật khẩu:"
+
+#, fuzzy
+#~ msgid "Payment error:"
+#~ msgstr "Phương thức thanh toán:"
